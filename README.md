@@ -1,3 +1,8 @@
+Clear your clipboard:
+```
+hello
+```
+
 Contact email:
 ```
 twins-blot-monsoon@duck.com
