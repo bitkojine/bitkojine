@@ -40,9 +40,8 @@ UFW:
 sudo ufw default deny outgoing
 sudo ufw default deny incoming
 
-sudo ufw allow out 53
-sudo ufw allow out http
+sudo ufw allow out dns
 sudo ufw allow out https
 
-# 22, 6969
+# 22, 6969, 80
 ```
