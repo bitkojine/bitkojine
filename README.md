@@ -13,7 +13,12 @@ twins-blot-monsoon@duck.com
 npub1ftcm2ftkdnjyqze7cz70wqcgrchxnrqdxpuyyyf78nc23naqrt6syazw2t
 ```
 
-🔑 GPG/PGP:
+🔑 GPG fingerprint (GitHub Web Client):
+```
+B5690EEEBB952194
+```
+
+🔑 GPG fingerprint & public key (74838686+bitkojine@users.noreply.github.com):
 ```
 060A33F73969A5CE
 ```
@@ -35,7 +40,9 @@ VMBBeveWCg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-🧱 UFW:
+---
+
+🧱 UFW notes:
 ```
 sudo ufw default deny outgoing
 sudo ufw default deny incoming
