@@ -1,19 +1,19 @@
-Clear your clipboard:
+📋 Clear your clipboard:
 ```
 hello
 ```
 
-Contact email:
+📧 Contact email:
 ```
 twins-blot-monsoon@duck.com
 ```
 
-Nostr npub:
+🦩 Nostr npub:
 ```
 npub1ftcm2ftkdnjyqze7cz70wqcgrchxnrqdxpuyyyf78nc23naqrt6syazw2t
 ```
 
-GPG/PGP:
+🔑 GPG/PGP:
 ```
 060A33F73969A5CE
 ```
@@ -35,7 +35,7 @@ VMBBeveWCg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-UFW:
+🧱 UFW:
 ```
 sudo ufw default deny outgoing
 sudo ufw default deny incoming
