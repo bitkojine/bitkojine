@@ -43,3 +43,5 @@ VMBBeveWCg==
 ---
 
 [Arch Linux notes](https://github.com/bitkojine/arch)
+
+[Python version management](https://github.com/pyenv/pyenv)
