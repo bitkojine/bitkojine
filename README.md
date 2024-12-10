@@ -46,13 +46,13 @@ VMBBeveWCg==
 
 0. [Bash]()
 1. ~~C# (F#)~~
-2. [Elixir]()
+2. Elixir
 3. [Go]()
 4. ~~Java~~
 5. [JavaScript]() ([TypeScript]())
-6. [OCaml]()
-7. [Python]()
-8. [Rust]()
+6. OCaml
+7. Python
+8. Rust
 
 ## Personal notes
 
