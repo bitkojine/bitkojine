@@ -44,17 +44,15 @@ VMBBeveWCg==
 
 ## My languages
 
-- [Bash]()
-- [C#]()
-- [Elixir]()
-- [F#]()
-- [Go]()
-- [JavaScript]()
-- [OCaml]()
-- [Python]()
-- [Rust]()
-- [TypeScript]()
-- [Zig]()
+0. [Bash]()
+1. [C#]() ([F#]())
+2. [Elixir]()
+3. [Go]()
+4. [JavaScript]() ([TypeScript]())
+5. [OCaml]()
+6. [Python]()
+7. [Rust]()
+8. [Zig]()
 
 ## Personal notes
 
