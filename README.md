@@ -1,3 +1,5 @@
+## Contact info
+
 📋 Clear your clipboard:
 ```
 hello
@@ -40,7 +42,21 @@ VMBBeveWCg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
----
+## My languages
+
+- [Bash]()
+- [C#]()
+- [Elixir]()
+- [F#]()
+- [Go]()
+- [JavaScript]()
+- [OCaml]()
+- [Python]()
+- [Rust]()
+- [TypeScript]()
+- [Zig]()
+
+## Personal notes
 
 [Arch Linux notes](https://github.com/bitkojine/arch)
 
