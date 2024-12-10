@@ -44,15 +44,9 @@ VMBBeveWCg==
 
 ## My languages
 
-0. [Bash]()
-1. ~~C# (F#)~~
-2. Elixir
-3. [Go]()
-4. ~~Java~~
-5. [JavaScript]() ([TypeScript]())
-6. OCaml
-7. Python
-8. Rust
+- [Bash]()
+- [Go]()
+- [TypeScript]()
 
 ## Personal notes
 
