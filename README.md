@@ -36,13 +36,13 @@ VMBBeveWCg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-## My languages
+## Languages
 
 - [Bash]()
 - [Go]()
 - [TypeScript]()
 
-## Personal notes
+## Other stuff
 
 [Arch Linux notes](https://github.com/bitkojine/arch)
 
