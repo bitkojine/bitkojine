@@ -4,7 +4,15 @@
 hello
 ```
 
-💬 DM me on Signal:
+💬 DM me on Signal. Username and link:
+
+```
+bitkojine.52
+```
+
+```
+https://signal.me/#eu/1-PaXXpKPdw9dJolKQIBQY4Uz1JtgqIGAYUhYmmARVEQWIC_eJpDzp7UXWPTkDJu
+```
 
 <img src="images/signal.jpg" alt="Signal messenger QR code" width="300">
 
