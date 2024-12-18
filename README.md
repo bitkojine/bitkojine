@@ -4,6 +4,11 @@
 hello
 ```
 
+💬 DM me on Signal:
+
+<img src="images/signal.jpg" alt="Signal messenger QR code" width="300">
+
+
 📧 Contact email:
 ```
 twins-blot-monsoon@duck.com
