@@ -22,7 +22,7 @@ https://signal.me/#eu/1-PaXXpKPdw9dJolKQIBQY4Uz1JtgqIGAYUhYmmARVEQWIC_eJpDzp7UXW
 twins-blot-monsoon@duck.com
 ```
 
-🔑 GPG fingerprint (GitHub Web Client):
+🐾 GPG fingerprint (GitHub Web Client):
 ```
 B5690EEEBB952194
 ```
