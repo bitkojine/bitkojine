@@ -1,8 +1,8 @@
-## Contact info
-
 ```
 hello
 ```
+
+## Contact info
 
 💬 DM me on Signal. Username and link:
 
